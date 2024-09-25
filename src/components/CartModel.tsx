@@ -15,7 +15,7 @@ const CartModel = () => {
           <div className=" flex flex-col gap-8">
             <div className=" flex gap-4">
               <Image
-                src=""
+                src="https://images.pexels.com/photos/2205839/pexels-photo-2205839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 alt=""
                 width={72}
                 height={96}
