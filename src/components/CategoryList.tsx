@@ -11,7 +11,13 @@ const CategoryList = () => {
           className="flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6"
         >
           <div className=" relative bg-slate-100 w-full h-96">
-            <Image src="" alt="" fill sizes="20vw" className=" object-cover" />
+            <Image
+              src="https://images.pexels.com/photos/2205839/pexels-photo-2205839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+              alt=""
+              fill
+              sizes="20vw"
+              className=" object-cover"
+            />
           </div>
           <h1 className="mt-8 font-light text-clip tracking-wide">
             Category Name
@@ -22,7 +28,13 @@ const CategoryList = () => {
           className="flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6"
         >
           <div className=" relative bg-slate-100 w-full h-96">
-            <Image src="" alt="" fill sizes="20vw" className=" object-cover" />
+            <Image
+              src="https://images.pexels.com/photos/2205839/pexels-photo-2205839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+              alt=""
+              fill
+              sizes="20vw"
+              className=" object-cover"
+            />
           </div>
           <h1 className="mt-8 font-light text-clip tracking-wide">
             Category Name
@@ -33,7 +45,13 @@ const CategoryList = () => {
           className="flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6"
         >
           <div className=" relative bg-slate-100 w-full h-96">
-            <Image src="" alt="" fill sizes="20vw" className=" object-cover" />
+            <Image
+              src="https://images.pexels.com/photos/2205839/pexels-photo-2205839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+              alt=""
+              fill
+              sizes="20vw"
+              className=" object-cover"
+            />
           </div>
           <h1 className="mt-8 font-light text-clip tracking-wide">
             Category Name
@@ -44,7 +62,13 @@ const CategoryList = () => {
           className="flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6"
         >
           <div className=" relative bg-slate-100 w-full h-96">
-            <Image src="" alt="" fill sizes="20vw" className=" object-cover" />
+            <Image
+              src="https://images.pexels.com/photos/2205839/pexels-photo-2205839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+              alt=""
+              fill
+              sizes="20vw"
+              className=" object-cover"
+            />
           </div>
           <h1 className="mt-8 font-light text-clip tracking-wide">
             Category Name
@@ -55,7 +79,13 @@ const CategoryList = () => {
           className="flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6"
         >
           <div className=" relative bg-slate-100 w-full h-96">
-            <Image src="" alt="" fill sizes="20vw" className=" object-cover" />
+            <Image
+              src="https://images.pexels.com/photos/2205839/pexels-photo-2205839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+              alt=""
+              fill
+              sizes="20vw"
+              className=" object-cover"
+            />
           </div>
           <h1 className="mt-8 font-light text-clip tracking-wide">
             Category Name
@@ -66,7 +96,13 @@ const CategoryList = () => {
           className="flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6"
         >
           <div className=" relative bg-slate-100 w-full h-96">
-            <Image src="" alt="" fill sizes="20vw" className=" object-cover" />
+            <Image
+              src="https://images.pexels.com/photos/2205839/pexels-photo-2205839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+              alt=""
+              fill
+              sizes="20vw"
+              className=" object-cover"
+            />
           </div>
           <h1 className="mt-8 font-light text-clip tracking-wide">
             Category Name
@@ -77,7 +113,13 @@ const CategoryList = () => {
           className="flex-shrink-0 w-full sm:w-1/2 lg:w-1/4 xl:w-1/6"
         >
           <div className=" relative bg-slate-100 w-full h-96">
-            <Image src="" alt="" fill sizes="20vw" className=" object-cover" />
+            <Image
+              src="https://images.pexels.com/photos/2205839/pexels-photo-2205839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+              alt=""
+              fill
+              sizes="20vw"
+              className=" object-cover"
+            />
           </div>
           <h1 className="mt-8 font-light text-clip tracking-wide">
             Category Name
